@@ -1,0 +1,5 @@
+__pycache__/
+myenv/
+.env
+.DS_Store
+employees.db
