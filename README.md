@@ -32,7 +32,7 @@ cd syndio
     DATABASE=employees.db
     ```
 
-5. Ensure you have the `employees.db` SQLite database file in the project root directory.
+5. Ensure you have the `employees.db` SQLite database [file](https://github.com/syndio/senior-backend-engineer-exercise/blob/main/employees.db) in the project root directory.
 
 
 ## Running the API
